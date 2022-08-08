@@ -9,7 +9,7 @@ Now almost a defacto standard for large organisations.
 
 We will discuss the elements of the real-world implementation that are not covered else where.
 - What sections and concepts to focus on? 
-- Why do organisations ignore the [[Implementation Roadmap|Implementation Roadmap]]? 
+- Why do organisations ignore the [[Ideas/Implementation Roadmap|Implementation Roadmap]]? 
 - How do leaders have to engage and how does their influence and dynamics with their peer change?
 - What are Value Streams?
 - What are the role of Customer Journeys?
