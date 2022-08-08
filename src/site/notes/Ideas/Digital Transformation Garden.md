@@ -9,7 +9,7 @@ We will use [[Retail Banking|Retail Banking]] as our domain, but the lessons lea
 
 ## Topics
 ### Methodology and Approach
-There are multiple Transformation methodologies, will be using [[SaFE|SaFE]] v5.1 as a based framework, but remember these are frameworks that adapt to your own organisational dynamics.
+There are multiple Transformation methodologies, will be using [[Ideas/SaFE|SaFE]] v5.1 as a based framework, but remember these are frameworks that adapt to your own organisational dynamics.
 
 ### People Organisation
 Digital Transformation is first a people transformation. Most people have a first reaction to resist change. The leadership of the organisation needs to bring people along on its change journey.
